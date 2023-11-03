@@ -1,4 +1,4 @@
-import 'package:sse_channel/sse_channel.dart';
+import 'package:sse_handler/sse_channel.dart';
 
 void main() {
   final channel =

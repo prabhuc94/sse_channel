@@ -1,3 +1,3 @@
-library sse_channel;
+library sse_handler;
 
 export 'src/channel.dart';
